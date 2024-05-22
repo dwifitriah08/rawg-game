@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RawgGameListApp</string>
+    <string name="genre">Genre :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="favorite">Favorite</string>
+    <string name="heart_icon">Heart Icon</string>
+    <string name="description">Description</string>
+</resources>
